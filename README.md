@@ -1,6 +1,16 @@
-# 南邮新生实验速通LabPass (Fork)
+# LabPass (Fork)
 
 > 本仓库是 [MapleSugarCake/LabLearningAutoPass](https://github.com/MapleSugarCake/LabLearningAutoPass) 的 fork，原作者：**MapleCake（NJUPT 2025届）**。
+
+## 快速开始
+
+直接去右边 **Releases** 页面下载 `labpass.exe`，双击运行即可，无需安装 Python 或任何依赖。
+
+- **普通使用**：双击 `labpass.exe`，按提示输入学号密码
+- **修正之前答错的题目**：在 exe 所在地址栏输入 `cmd` 回车，然后运行 `labpass.exe --redo`
+- **校园网环境**：运行 `labpass.exe --login-mode token`，按提示粘贴 Token
+
+> Windows SmartScreen 提示时选"更多信息" → "仍要运行"；杀毒软件误报请加白名单。
 
 ## 本 fork 的功能
 
