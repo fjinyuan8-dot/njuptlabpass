@@ -1,4 +1,4 @@
-# LabPass (Fork)
+# 南邮新生实验速通LabPass (Fork)
 
 > 本仓库是 [MapleSugarCake/LabLearningAutoPass](https://github.com/MapleSugarCake/LabLearningAutoPass) 的 fork，原作者：**MapleCake（NJUPT 2025届）**。
 
